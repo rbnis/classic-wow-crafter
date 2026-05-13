@@ -1,0 +1,156 @@
+{
+  "Runed Copper Rod": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6217/copper-rod": 1,
+      "https://www.wowhead.com/classic/item=10940/strange-dust": 1,
+      "https://www.wowhead.com/classic/item=10938/lesser-magic-essence": 1
+    }
+  },
+  "Runed Silver Rod": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6338/silver-rod": 1,
+      "https://www.wowhead.com/classic/item=10940/strange-dust": 6,
+      "https://www.wowhead.com/classic/item=10939/greater-magic-essence": 3,
+      "https://www.wowhead.com/classic/item=1210/shadowgem": 1
+    }
+  },
+  "Runed Golden Rod": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11128/golden-rod": 1,
+      "https://www.wowhead.com/classic/item=5500/iridescent-pearl": 1,
+      "https://www.wowhead.com/classic/item=11082/greater-astral-essence": 2,
+      "https://www.wowhead.com/classic/item=11083/soul-dust": 2
+    }
+  },
+  "Runed Truesilver Rod": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11144/truesilver-rod": 1,
+      "https://www.wowhead.com/classic/item=7971/black-pearl": 1,
+      "https://www.wowhead.com/classic/item=11135/greater-mystic-essence": 2,
+      "https://www.wowhead.com/classic/item=11137/vision-dust": 2
+    }
+  },
+  "Lesser Magic Wand": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4470/simple-wood": 1,
+      "https://www.wowhead.com/classic/item=10938/lesser-magic-essence": 1
+    }
+  },
+  "Greater Magic Wand": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4470/simple-wood": 1,
+      "https://www.wowhead.com/classic/item=10939/greater-magic-essence": 1
+    }
+  },
+  "Lesser Mystic Wand": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11291/star-wood": 1,
+      "https://www.wowhead.com/classic/item=11134/lesser-mystic-essence": 1,
+      "https://www.wowhead.com/classic/item=11083/soul-dust": 1
+    }
+  },
+  "Greater Mystic Wand": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11291/star-wood": 1,
+      "https://www.wowhead.com/classic/item=11135/greater-mystic-essence": 1,
+      "https://www.wowhead.com/classic/item=11137/vision-dust": 1
+    }
+  },
+  "Smoking Heart of the Mountain": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11382/blood-of-the-mountain": 1,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=14343/small-brilliant-shard": 3
+    }
+  },
+  "Enchanted Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 1,
+      "https://www.wowhead.com/classic/item=16202/lesser-eternal-essence": 1
+    }
+  },
+  "Enchanted Thorium": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12359/thorium-bar": 1,
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 3
+    }
+  },
+  "Runed Arcanite Rod": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=16206/arcanite-rod": 1,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 1,
+      "https://www.wowhead.com/classic/item=16204/illusion-dust": 10,
+      "https://www.wowhead.com/classic/item=16203/greater-eternal-essence": 4,
+      "https://www.wowhead.com/classic/item=14343/small-brilliant-shard": 4,
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 2
+    }
+  },
+  "Minor Wizard Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=10940/strange-dust": 2,
+      "https://www.wowhead.com/classic/item=17034/maple-seed": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Minor Mana Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11083/soul-dust": 3,
+      "https://www.wowhead.com/classic/item=17034/maple-seed": 2,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Lesser Wizard Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11137/vision-dust": 3,
+      "https://www.wowhead.com/classic/item=17035/stranglethorn-seed": 2,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Lesser Mana Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 3,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Wizard Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=16204/illusion-dust": 3,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Brilliant Wizard Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 2,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 3,
+      "https://www.wowhead.com/classic/item=18256/imbued-vial": 1
+    }
+  },
+  "Brilliant Mana Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 2,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 3,
+      "https://www.wowhead.com/classic/item=18256/imbued-vial": 1
+    }
+  }
+}

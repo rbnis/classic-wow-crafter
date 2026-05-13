@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
-import EngineeringData from '../../src/assets/engineering.json'
 
 export default function Calculator(props) {
-    const { items, setItems, fakeData, selectedProfession } = props
+    const { items, setItems, fakeData, selectedProfession, recipeData } = props
     const [searchValue, setSearchValue] = useState('')
     return (
         <div className='sub-section'>
@@ -10,7 +9,7 @@ export default function Calculator(props) {
             {selectedProfession ? (
                 <>
                     <input value={searchValue} onChange={(e) => { setSearchValue(e.target.value) }} placeholder='Search recipe' className='recipe-search' />
-                    {Object.keys(EngineeringData).filter(val => val.toLowerCase().includes(searchValue.toLowerCase())).map((recipe, recipeIndex) => {
+                    {Object.keys(recipeData).filter(val => val.toLowerCase().includes(searchValue.toLowerCase())).map((recipe, recipeIndex) => {
                         return (
                             <div className='recipe-line' key={recipeIndex}>
                                 <input placeholder='0' type='number' value={items[recipe] || ''} onChange={(e) => {
@@ -22,7 +21,7 @@ export default function Calculator(props) {
                                     })
                                 }} />
                                 <i className="fa-solid fa-xmark"></i>
-                                <p>{recipe} {EngineeringData[recipe].quantities !== 1 ? `(${EngineeringData[recipe].quantities})` : ''}</p>
+                                <p>{recipe} {recipeData[recipe].quantities !== 1 ? `(${recipeData[recipe].quantities})` : ''}</p>
                             </div>
                         )
                     })}

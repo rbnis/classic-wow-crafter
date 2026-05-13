@@ -2,16 +2,21 @@ import { useState } from 'react'
 import ProfessionsGrid from './components/ProfessionsGrid'
 import Reagents from './components/Reagents'
 import Calculator from './components/Calculator'
+import AlchemyData from './assets/alchemy.json'
+import BlacksmithingData from './assets/blacksmithing.json'
+import EnchantingData from './assets/enchanting.json'
 import EngineeringData from './assets/engineering.json'
+import LeatherworkingData from './assets/leatherworking.json'
+import TailoringData from './assets/tailoring.json'
 
-const craftingProfessions = [
-  "Alchemy",
-  "Blacksmithing",
-  "Enchanting",
-  "Engineering",
-  "Leatherworking",
-  "Tailoring"
-]
+const craftingProfessions = {
+  Alchemy: AlchemyData,
+  Blacksmithing: BlacksmithingData,
+  Enchanting: EnchantingData,
+  Engineering: EngineeringData,
+  Leatherworking: LeatherworkingData,
+  Tailoring: TailoringData,
+}
 
 const gatheringProfessions = [
   "Herbalism",
@@ -34,9 +39,11 @@ function App() {
   const [selectedProfession, setSelectedProfession] = useState(null)
   const [items, setItems] = useState({})
 
+  const activeData = craftingProfessions[selectedProfession] ?? {}
+
   let reagents = {}
   for (const item in items) {
-    const itemData = EngineeringData[item]
+    const itemData = activeData[item]
     for (const reagent in itemData.reagents) {
       const quantity = items[item]
       const processedArr = reagent.split('/')
@@ -70,11 +77,11 @@ function App() {
       </header>
       <main>
         <section>
-          <ProfessionsGrid selectedProfession={selectedProfession} setSelectedProfession={setSelectedProfession} craftingProfessions={craftingProfessions} />
+          <ProfessionsGrid selectedProfession={selectedProfession} setSelectedProfession={(prof) => { setSelectedProfession(prof); setItems({}) }} craftingProfessions={Object.keys(craftingProfessions)} />
         </section>
         <section style={{ opacity: selectedProfession ? 1 : 0.4 }}>
           <Reagents reagentsLength={reagentsLength} reagents={reagents} />
-          <Calculator fakeData={fakeData} items={items} setItems={setItems} selectedProfession={selectedProfession} />
+          <Calculator fakeData={fakeData} items={items} setItems={setItems} selectedProfession={selectedProfession} recipeData={activeData} />
         </section>
       </main>
       <footer>

@@ -1,0 +1,893 @@
+{
+  "Minor Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2447/peacebloom": 1,
+      "https://www.wowhead.com/classic/item=765/silverleaf": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Lion's Strength": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2449/earthroot": 1,
+      "https://www.wowhead.com/classic/item=765/silverleaf": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Wisdom": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=785/mageroyal": 1,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Minor Magic Resistance Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=785/mageroyal": 3,
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Lesser Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=785/mageroyal": 1,
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Poison Resistance": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=1288/large-venom-sac": 1,
+      "https://www.wowhead.com/classic/item=2453/bruiseweed": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Strong Troll's Blood Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2453/bruiseweed": 2,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 2,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Defense": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Lesser Agility": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=2452/swiftthistle": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Ogre's Strength": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2449/earthroot": 1,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Weak Troll's Blood Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2447/peacebloom": 1,
+      "https://www.wowhead.com/classic/item=2449/earthroot": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Minor Agility": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2452/swiftthistle": 1,
+      "https://www.wowhead.com/classic/item=765/silverleaf": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2453/bruiseweed": 1,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Lesser Invisibility Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3818/fadeleaf": 1,
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Shadow Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3818/fadeleaf": 4,
+      "https://www.wowhead.com/classic/item=3369/grave-moss": 4,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Fortitude": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Mighty Troll's Blood Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3357/liferoot": 1,
+      "https://www.wowhead.com/classic/item=2453/bruiseweed": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Detect Lesser Invisibility": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=3818/fadeleaf": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Frost Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3358/khadgar": 4,
+      "https://www.wowhead.com/classic/item=3819/wintersbite": 2,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Discolored Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3164/discolored-worg-heart": 1,
+      "https://www.wowhead.com/classic/item=2447/peacebloom": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Lesser Stoneshield Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3858/mithril-ore": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Free Action Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6370/blackmouth-oil": 2,
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Great Rage Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5637/large-fang": 1,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Rage Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5635/sharp-claw": 1,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Water Breathing": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=6370/blackmouth-oil": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Greater Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3357/liferoot": 1,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Minor Defense": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=765/silverleaf": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Fire Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4402/small-flame-sac": 1,
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Frost Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3819/wintersbite": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Holy Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2453/bruiseweed": 1,
+      "https://www.wowhead.com/classic/item=2452/swiftthistle": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Nature Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3357/liferoot": 1,
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Shadow Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3369/grave-moss": 1,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Blackmouth Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6358/oily-blackmouth": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Fire Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6359/firefin-snapper": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Swim Speed Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2452/swiftthistle": 1,
+      "https://www.wowhead.com/classic/item=6370/blackmouth-oil": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Firepower": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 2,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Giant Growth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6522/deviate-fish": 1,
+      "https://www.wowhead.com/classic/item=2449/earthroot": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Agility": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3820/stranglekelp": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Elixir of Greater Defense": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3355/wild-steelbloom": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Oil of Immolation": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4625/firebloom": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Restorative Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Magic Resistance Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Goblin Rocket Fuel": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4625/firebloom": 1,
+      "https://www.wowhead.com/classic/item=9260/volatile-rum": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Superior Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8838/sungrass": 1,
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Wildvine Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8153/wildvine": 1,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Philosophers' Stone": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3575/iron-bar": 4,
+      "https://www.wowhead.com/classic/item=9262/black-vitriol": 1,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 4,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 4
+    }
+  },
+  "Elixir of Detect Undead": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8836/arthas": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Arcane Elixir": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8839/blindweed": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Invisibility Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8845/ghost-mushroom": 1,
+      "https://www.wowhead.com/classic/item=8838/sungrass": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Greater Intellect": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8839/blindweed": 1,
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Gift of Arthas": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8836/arthas": 1,
+      "https://www.wowhead.com/classic/item=8839/blindweed": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Greater Agility": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8838/sungrass": 1,
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Dream Vision": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 3,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Giants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8838/sungrass": 1,
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Ghost Dye": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8845/ghost-mushroom": 2,
+      "https://www.wowhead.com/classic/item=4342/purple-dye": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Shadow Power": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8845/ghost-mushroom": 3,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Demonslaying": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 1,
+      "https://www.wowhead.com/classic/item=8845/ghost-mushroom": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Detect Demon": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Transmute: Iron to Gold": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3575/iron-bar": 1
+    }
+  },
+  "Transmute: Mithril to Truesilver": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3860/mithril-bar": 1
+    }
+  },
+  "Catseye Elixir": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3821/goldthorn": 1,
+      "https://www.wowhead.com/classic/item=3818/fadeleaf": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Dreamless Sleep Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 3,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Transmute: Arcanite": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12359/thorium-bar": 1,
+      "https://www.wowhead.com/classic/item=12363/arcane-crystal": 1
+    }
+  },
+  "Stonescale Oil": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13422/stonescale-eel": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Mighty Rage Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 3,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Superior Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8838/sungrass": 2,
+      "https://www.wowhead.com/classic/item=8839/blindweed": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Superior Defense": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13423/stonescale-oil": 2,
+      "https://www.wowhead.com/classic/item=8838/sungrass": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of the Sages": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Major Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13464/golden-sansam": 2,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Brute Force": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 2,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Transmute: Air to Fire": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 1
+    }
+  },
+  "Transmute: Earth to Water": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 1
+    }
+  },
+  "Transmute: Earth to Life": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 1
+    }
+  },
+  "Transmute: Fire to Earth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1
+    }
+  },
+  "Transmute: Undeath to Water": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 1
+    }
+  },
+  "Transmute: Water to Air": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 1
+    }
+  },
+  "Transmute: Water to Undeath": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 1
+    }
+  },
+  "Transmute: Life to Earth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12803/living-essence": 1
+    }
+  },
+  "Greater Stoneshield Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13423/stonescale-oil": 3,
+      "https://www.wowhead.com/classic/item=10620/thorium-ore": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of the Mongoose": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 2,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Purification Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13467/icecap": 2,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Arcane Elixir": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 3,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Fire Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7068/elemental-fire": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Frost Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7070/elemental-water": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Nature Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Arcane Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Shadow Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3824/shadow-oil": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Holy Protection Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7069/elemental-air": 1,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Major Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 3,
+      "https://www.wowhead.com/classic/item=13467/icecap": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Alchemist's Stone": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 8,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 8,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 8,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 8,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 8,
+      "https://www.wowhead.com/classic/item=9262/black-vitriol": 2,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 4
+    }
+  },
+  "Flask of Petrification": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13423/stonescale-oil": 30,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 10,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Flask of the Titans": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 30,
+      "https://www.wowhead.com/classic/item=13423/stonescale-oil": 10,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Flask of Distilled Wisdom": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 30,
+      "https://www.wowhead.com/classic/item=13467/icecap": 10,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Flask of Supreme Power": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 30,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 10,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Flask of Chromatic Resistance": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13467/icecap": 30,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 10,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Limited Invulnerability Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8839/blindweed": 2,
+      "https://www.wowhead.com/classic/item=8845/ghost-mushroom": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Elixir of Frost Power": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=3819/wintersbite": 2,
+      "https://www.wowhead.com/classic/item=3358/khadgar": 1,
+      "https://www.wowhead.com/classic/item=3372/leaded-vial": 1
+    }
+  },
+  "Major Rejuvenation Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 1,
+      "https://www.wowhead.com/classic/item=13464/golden-sansam": 4,
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 4,
+      "https://www.wowhead.com/classic/item=18256/imbued-vial": 1
+    }
+  },
+  "Elixir of Greater Water Breathing": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7972/ichor-of-undeath": 1,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Gurubashi Mojo Madness": {
+    "quantities": 3,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12938/blood-of-heroes": 1,
+      "https://www.wowhead.com/classic/item=19943/massive-mojo": 1,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 6,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1
+    }
+  },
+  "Mageblood Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 1,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Greater Dreamless Sleep Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13463/dreamfoil": 2,
+      "https://www.wowhead.com/classic/item=13464/golden-sansam": 1,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Living Action Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=13467/icecap": 2,
+      "https://www.wowhead.com/classic/item=13465/mountain-silversage": 2,
+      "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Major Troll's Blood Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8846/gromsblood": 1,
+      "https://www.wowhead.com/classic/item=13466/plaguebloom": 2,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Transmute: Elemental Fire": {
+    "quantities": 3,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 1
+    }
+  },
+  "Elixir of Greater Firepower": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 3,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 3,
+      "https://www.wowhead.com/classic/item=8925/crystal-vial": 1
+    }
+  },
+  "Minor Mana Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=785/mageroyal": 1,
+      "https://www.wowhead.com/classic/item=765/silverleaf": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Minor Rejuvenation Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=785/mageroyal": 2,
+      "https://www.wowhead.com/classic/item=2447/peacebloom": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Minor Fortitude": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2449/earthroot": 2,
+      "https://www.wowhead.com/classic/item=2447/peacebloom": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Swiftness Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2452/swiftthistle": 1,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 1,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Elixir of Tongues": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2449/earthroot": 2,
+      "https://www.wowhead.com/classic/item=785/mageroyal": 2,
+      "https://www.wowhead.com/classic/item=3371/empty-vial": 1
+    }
+  },
+  "Lesser Healing Potion": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=118/minor-healing-potion": 1,
+      "https://www.wowhead.com/classic/item=2450/briarthorn": 1
+    }
+  }
+}

@@ -1,0 +1,1955 @@
+{
+  "Bolt of Linen Cloth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2589/linen-cloth": 2
+    }
+  },
+  "Linen Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Brown Linen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Red Linen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2
+    }
+  },
+  "Linen Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 1
+    }
+  },
+  "Red Linen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 1
+    }
+  },
+  "White Linen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "Blue Linen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 1
+    }
+  },
+  "Reinforced Linen Cape": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 3
+    }
+  },
+  "Barbaric Linen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Green Linen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1
+    }
+  },
+  "Bolt of Woolen Cloth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2592/wool-cloth": 3
+    }
+  },
+  "Woolen Cape": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Green Woolen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1
+    }
+  },
+  "Woolen Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2
+    }
+  },
+  "Gray Woolen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Gray Woolen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Bolt of Silk Cloth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4306/silk-cloth": 4
+    }
+  },
+  "Bolt of Mageweave": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 5
+    }
+  },
+  "Heavy Linen Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Green Linen Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1
+    }
+  },
+  "Handstitched Linen Britches": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Heavy Woolen Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Heavy Woolen Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=5498/small-lustrous-pearl": 2
+    }
+  },
+  "Soft-soled Linen Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 5,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Red Woolen Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2
+    }
+  },
+  "Double-stitched Woolen Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Reinforced Woolen Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 6,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Heavy Woolen Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 5,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 4
+    }
+  },
+  "Phoenix Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 6,
+      "https://www.wowhead.com/classic/item=5500/iridescent-pearl": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3
+    }
+  },
+  "Gloves of Meditation": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3,
+      "https://www.wowhead.com/classic/item=3383/elixir-of-wisdom": 1
+    }
+  },
+  "Azure Silk Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Spidersilk Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=3182/spider": 4,
+      "https://www.wowhead.com/classic/item=5500/iridescent-pearl": 2
+    }
+  },
+  "Spider Silk Slippers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=3182/spider": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Enchanter's Cowl": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=4337/thick-spider": 2
+    }
+  },
+  "Shadow Hood": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1,
+      "https://www.wowhead.com/classic/item=3824/shadow-oil": 1
+    }
+  },
+  "Azure Silk Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 4
+    }
+  },
+  "Boots of the Enchanter": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1,
+      "https://www.wowhead.com/classic/item=4337/thick-spider": 2
+    }
+  },
+  "Long Silken Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=3827/mana-potion": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Icy Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2,
+      "https://www.wowhead.com/classic/item=3829/frost-oil": 1,
+      "https://www.wowhead.com/classic/item=4337/thick-spider": 2
+    }
+  },
+  "Spider Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=4337/thick-spider": 2,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Star Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=3864/star-belt": 1,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Stylish Red Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Phoenix Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=5500/iridescent-pearl": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 4,
+      "https://www.wowhead.com/classic/item=2324/bleach": 2
+    }
+  },
+  "Bright Yellow Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 1,
+      "https://www.wowhead.com/classic/item=4341/yellow-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Dark Silk Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Formal White Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2324/bleach": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Rich Purple Silk Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=4342/purple-dye": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Black Swashbuckler's Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Brown Linen Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Brown Linen Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Pearl-clasped Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=5498/small-lustrous-pearl": 1
+    }
+  },
+  "Green Woolen Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Linen Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 3
+    }
+  },
+  "Woolen Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Small Silk Pack": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3
+    }
+  },
+  "Red Linen Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 1
+    }
+  },
+  "Red Woolen Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Lesser Wizard's Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=3182/spider": 2
+    }
+  },
+  "Robes of Arcana": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=3182/spider": 2
+    }
+  },
+  "Green Silk Pack": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1
+    }
+  },
+  "Black Silk Pack": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 4
+    }
+  },
+  "Brown Linen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "White Linen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "Blue Linen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 1
+    }
+  },
+  "Red Linen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 1
+    }
+  },
+  "Blue Linen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2
+    }
+  },
+  "Green Woolen Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1
+    }
+  },
+  "Blue Overalls": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2
+    }
+  },
+  "Greater Adept's Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 5,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 3
+    }
+  },
+  "Stylish Blue Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Stylish Green Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 2,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Simple Dress": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 1,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "White Woolen Dress": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 3,
+      "https://www.wowhead.com/classic/item=2324/bleach": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Red Swashbuckler's Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "White Swashbuckler's Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2324/bleach": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Linen Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Azure Silk Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3
+    }
+  },
+  "Azure Silk Hood": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Silk Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Earthen Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Azure Silk Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=7070/elemental-water": 1,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Robe of Power": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 2,
+      "https://www.wowhead.com/classic/item=7070/elemental-water": 2,
+      "https://www.wowhead.com/classic/item=7068/elemental-fire": 2,
+      "https://www.wowhead.com/classic/item=7069/elemental-air": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Crimson Silk Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Green Silken Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Boots of Darkness": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 2,
+      "https://www.wowhead.com/classic/item=6048/shadow-protection-potion": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Hands of Darkness": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+      "https://www.wowhead.com/classic/item=6048/shadow-protection-potion": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Truefaith Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+      "https://www.wowhead.com/classic/item=929/healing-potion": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Green Silk Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Azure Silk Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 3,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Crimson Silk Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Crimson Silk Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Crimson Silk Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Azure Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 6,
+      "https://www.wowhead.com/classic/item=7072/naga-scale": 2,
+      "https://www.wowhead.com/classic/item=6260/blue-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Earthen Silk Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 4,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Crimson Silk Pantaloons": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Crimson Silk Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 8,
+      "https://www.wowhead.com/classic/item=7068/elemental-fire": 4,
+      "https://www.wowhead.com/classic/item=3827/mana-potion": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Crimson Silk Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 6,
+      "https://www.wowhead.com/classic/item=7068/elemental-fire": 2,
+      "https://www.wowhead.com/classic/item=6371/fire-oil": 2,
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Simple Linen Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Simple Linen Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Simple Kilt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Colorful Kilt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 5,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 3,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Black Mageweave Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 3
+    }
+  },
+  "Black Mageweave Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 3
+    }
+  },
+  "Black Mageweave Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Shadoweave Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Black Mageweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Shadoweave Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Red Mageweave Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "White Bandit Mask": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 1,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Red Mageweave Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Orange Mageweave Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 1,
+      "https://www.wowhead.com/classic/item=6261/orange-dye": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Stormcloth Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Stormcloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Orange Martial Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=6261/orange-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Mageweave Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Red Mageweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Dreamweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 4,
+      "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Stormcloth Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 3,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Cindercloth Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Dreamweave Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 6,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 6,
+      "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Shadoweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 5,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Black Mageweave Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Black Mageweave Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2,
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 2
+    }
+  },
+  "Black Mageweave Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Lavender Mageweave Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=4342/purple-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Shadoweave Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Simple Black Dress": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "Red Mageweave Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3
+    }
+  },
+  "Red Mageweave Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Pink Mageweave Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=10290/pink-dye": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Admiral's Hat": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 3,
+      "https://www.wowhead.com/classic/item=4589/long-elegant-feather": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Shadoweave Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 6,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3,
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 2
+    }
+  },
+  "Stormcloth Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Red Mageweave Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Tuxedo Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Shadoweave Mask": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 2,
+      "https://www.wowhead.com/classic/item=10285/shadow-silk": 8,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Stormcloth Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3
+    }
+  },
+  "Cindercloth Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3,
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 2
+    }
+  },
+  "Tuxedo Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3
+    }
+  },
+  "Stormcloth Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 6,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3,
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 2
+    }
+  },
+  "White Wedding Dress": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "Dreamweave Circlet": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 8,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 4,
+      "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3,
+      "https://www.wowhead.com/classic/item=6037/truesilver-bar": 1,
+      "https://www.wowhead.com/classic/item=1529/jade": 1
+    }
+  },
+  "Tuxedo Jacket": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 5,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 3
+    }
+  },
+  "Bolt of Runecloth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14047/runecloth": 5
+    }
+  },
+  "Runecloth Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostweave Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostweave Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Cindercloth Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ghostweave Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 3,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 3,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Cindercloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Brightcloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=3577/gold-bar": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ghostweave Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Brightcloth Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=3577/gold-bar": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ghostweave Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Cindercloth Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Felcloth Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Brightcloth Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=3577/gold-bar": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wizardweave Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Cloak of Fire": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 4,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 4,
+      "https://www.wowhead.com/classic/item=7068/elemental-fire": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostweave Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Cindercloth Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Robe of Winter Night": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 10,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 12,
+      "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 4,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Felcloth Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 4,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Brightcloth Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=3577/gold-bar": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Mooncloth Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ghostweave Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Felcloth Hood": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Mooncloth Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wizardweave Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Mooncloth Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Mooncloth Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 5,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runecloth Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 7,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wizardweave Turban": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=11176/dream-dust": 4,
+      "https://www.wowhead.com/classic/item=7910/star-ruby": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Felcloth Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 8,
+      "https://www.wowhead.com/classic/item=12662/demonic-rune": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Mooncloth Circlet": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 6,
+      "https://www.wowhead.com/classic/item=12800/azerothian-diamond": 1,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Felcloth Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 7,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 6,
+      "https://www.wowhead.com/classic/item=12662/demonic-rune": 4,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Gloves of Spell Mastery": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 10,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 10,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 10,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 6,
+      "https://www.wowhead.com/classic/item=12364/huge-emerald": 6,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Bottomless Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 12,
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 2,
+      "https://www.wowhead.com/classic/item=17012/core-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Truefaith Vestments": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 10,
+      "https://www.wowhead.com/classic/item=12811/righteous-orb": 4,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 4,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Robe of the Archmage": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 10,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 10,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 10,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Robe of the Void": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=12662/demonic-rune": 20,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 40,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 12,
+      "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 12,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Mooncloth": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14256/felcloth": 2
+    }
+  },
+  "Mooncloth Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 4,
+      "https://www.wowhead.com/classic/item=7971/black-pearl": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Flarecore Mantle": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 4,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 4,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Flarecore Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 6,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 4,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Green Holiday Shirt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 5,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Flarecore Wraps": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 6,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 8,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 2,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 4
+    }
+  },
+  "Gordok Ogre Suit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 2,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=18240/ogre-tannin": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Belt of the Archmage": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 16,
+      "https://www.wowhead.com/classic/item=9210/ghost-dye": 10,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 10,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 12,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 12,
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 6
+    }
+  },
+  "Felcloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 20,
+      "https://www.wowhead.com/classic/item=12662/demonic-rune": 6,
+      "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Inferno Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 10,
+      "https://www.wowhead.com/classic/item=7910/star-ruby": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Mooncloth Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 6,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Cloak of Warding": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 12,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 4,
+      "https://www.wowhead.com/classic/item=12360/arcanite-bar": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Mooncloth Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 4,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Wisdom of the Timbermaw": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 3,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 3,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Argent Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=13926/golden-pearl": 2,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Mantle of the Timbermaw": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 5,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 5,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 5,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Argent Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 5,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Flarecore Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 10,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 2,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 3,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 6,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Flarecore Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 8,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 5,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 3,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 10,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Bloodvine Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 3,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 3,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Bloodvine Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 4,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 4,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 4,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Bloodvine Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 3,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 5,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 4,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Runed Stygian Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 2,
+      "https://www.wowhead.com/classic/item=20520/dark-rune": 6,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 2,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Runed Stygian Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=20520/dark-rune": 6,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 4,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Runed Stygian Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=20520/dark-rune": 8,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 6,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Soul Pouch": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=7972/ichor-of-undeath": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Felcloth Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14256/felcloth": 12,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=20520/dark-rune": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Core Felcloth Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14256/felcloth": 20,
+      "https://www.wowhead.com/classic/item=17012/core-leather": 16,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 8,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Festive Red Dress": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Festive Red Pant Suit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=4625/firebloom": 2,
+      "https://www.wowhead.com/classic/item=2604/red-dye": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Enchanted Mageweave Pouch": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+      "https://www.wowhead.com/classic/item=11137/vision-dust": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Enchanted Runecloth Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=16203/greater-eternal-essence": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Big Bag of Enchantment": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14344/large-brilliant-shard": 4,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Cenarion Herb Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 5,
+      "https://www.wowhead.com/classic/item=8831/purple-lotus": 10,
+      "https://www.wowhead.com/classic/item=11040/morrowgrain": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Satchel of Cenarius": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 6,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 2,
+      "https://www.wowhead.com/classic/item=13468/black-lotus": 1,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Gaea's Embrace": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 1,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Glacial Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 5,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Glacial Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 5,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Glacial Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 7,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 8,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 6,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 8
+    }
+  },
+  "Glacial Wrists": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 4,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 2,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Sylvan Crown": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Sylvan Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Sylvan Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 4,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  }
+}

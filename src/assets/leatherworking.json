@@ -1,0 +1,1973 @@
+{
+  "Handstitched Leather Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Light Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 1
+    }
+  },
+  "Fine Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 10,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Light Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2934/ruined-leather-scraps": 3
+    }
+  },
+  "Handstitched Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Embossed Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Embossed Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Hillman's Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 5,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Fine Leather Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 3,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 4
+    }
+  },
+  "Hillman's Leather Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4243/fine-leather-tunic": 1,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Fine Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Hillman's Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 14,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 4
+    }
+  },
+  "Dark Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2312/fine-leather-gloves": 1,
+      "https://www.wowhead.com/classic/item=4233/cured-medium-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Dark Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4246/fine-leather-belt": 1,
+      "https://www.wowhead.com/classic/item=4233/cured-medium-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Hillman's Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=3383/elixir-of-wisdom": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Hillman's Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4233/cured-medium-hide": 1,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Dark Leather Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 12,
+      "https://www.wowhead.com/classic/item=3390/elixir-of-lesser-agility": 1,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Toughened Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=4233/cured-medium-hide": 2,
+      "https://www.wowhead.com/classic/item=3389/elixir-of-defense": 2,
+      "https://www.wowhead.com/classic/item=3182/spider": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Barbaric Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+      "https://www.wowhead.com/classic/item=5637/large-fang": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Green Leather Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 9,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 4
+    }
+  },
+  "Guardian Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 12,
+      "https://www.wowhead.com/classic/item=3824/shadow-oil": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Green Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 5,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Guardian Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Green Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+      "https://www.wowhead.com/classic/item=2605/green-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Guardian Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Gem-studded Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 4,
+      "https://www.wowhead.com/classic/item=5500/iridescent-pearl": 2,
+      "https://www.wowhead.com/classic/item=1529/jade": 2,
+      "https://www.wowhead.com/classic/item=3864/citrine": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Barbaric Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4096/raptor-hide-harness": 2,
+      "https://www.wowhead.com/classic/item=5633/great-rage-potion": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Cured Light Hide": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=783/light-hide": 1,
+      "https://www.wowhead.com/classic/item=4289/salt": 1
+    }
+  },
+  "Cured Medium Hide": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4232/medium-hide": 1,
+      "https://www.wowhead.com/classic/item=4289/salt": 1
+    }
+  },
+  "Cured Heavy Hide": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4235/heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=4289/salt": 3
+    }
+  },
+  "Heavy Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 5,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Raptor Hide Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4461/raptor-hide": 4,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Raptor Hide Harness": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4461/raptor-hide": 6,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Kodo Hide Bag": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5082/thin-kodo-leather": 3,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Barbaric Harness": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 14,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Murloc Scale Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5784/slimy-murloc-scale": 8,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Murloc Scale Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5785/thick-murloc-scale": 16,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 14,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Murloc Scale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5784/slimy-murloc-scale": 12,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 8,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Thick Murloc Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=5785/thick-murloc-scale": 12,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 3
+    }
+  },
+  "Handstitched Leather Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Fine Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Dark Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 12,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Guardian Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 12,
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Barbaric Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=1206/moss-agate": 1
+    }
+  },
+  "Barbaric Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Guardian Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 14,
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Guardian Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Deviate Scale Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6471/perfect-deviate-scale": 10,
+      "https://www.wowhead.com/classic/item=6470/deviate-scale": 10,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Deviate Scale Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6470/deviate-scale": 8,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Deviate Scale Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=6471/perfect-deviate-scale": 2,
+      "https://www.wowhead.com/classic/item=6470/deviate-scale": 6,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Moonglow Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 4,
+      "https://www.wowhead.com/classic/item=5498/small-lustrous-pearl": 1
+    }
+  },
+  "Handstitched Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Handstitched Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 2,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 3
+    }
+  },
+  "Light Leather Quiver": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Small Leather Ammo Pouch": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 3,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 4
+    }
+  },
+  "Rugged Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 5,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 5
+    }
+  },
+  "Light Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 4
+    }
+  },
+  "Light Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 10,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Black Whelp Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7286/black-whelp-scale": 12,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Red Whelp Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7287/red-whelp-scale": 6,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Nimble Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2457/elixir-of-minor-agility": 1,
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 6,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Fletcher's Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=5116/long-tail-feather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Herbalist's Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=3356/kingsblood": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Earthen Leather Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 6,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Pilferer's Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 10,
+      "https://www.wowhead.com/classic/item=5373/lucky-charm": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Heavy Earthen Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 12,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 2,
+      "https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Heavy Quiver": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Heavy Leather Ammo Pouch": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Dusky Leather Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Dusky Leather Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=3824/shadow-oil": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Green Whelp Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7392/green-whelp-scale": 4,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Frost Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 2,
+      "https://www.wowhead.com/classic/item=7070/elemental-water": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Dusky Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 16,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Green Whelp Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=7392/green-whelp-scale": 6,
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Dusky Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth": 2,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 2,
+      "https://www.wowhead.com/classic/item=7071/iron-buckle": 1
+    }
+  },
+  "Dusky Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=7428/shadowcat-hide": 2,
+      "https://www.wowhead.com/classic/item=3824/shadow-oil": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Swift Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 10,
+      "https://www.wowhead.com/classic/item=2459/swiftness-potion": 2,
+      "https://www.wowhead.com/classic/item=4337/thick-spider": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Cured Thick Hide": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8169/thick-hide": 1,
+      "https://www.wowhead.com/classic/item=8150/deeprock-salt": 1
+    }
+  },
+  "Thick Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 5,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Comfortable Leather Hat": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 12,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Nightscape Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 7,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Nightscape Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 5,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Turtle Scale Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 6,
+      "https://www.wowhead.com/classic/item=8167/turtle-scale": 8,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Turtle Scale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 6,
+      "https://www.wowhead.com/classic/item=8167/turtle-scale": 12,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Nightscape Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 8,
+      "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 6,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 3
+    }
+  },
+  "Turtle Scale Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 8,
+      "https://www.wowhead.com/classic/item=8167/turtle-scale": 12,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Big Voodoo Robe": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8151/flask-of-mojo": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Tough Scorpid Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 12,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 4
+    }
+  },
+  "Wild Leather Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 1,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1
+    }
+  },
+  "Big Voodoo Mask": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 8,
+      "https://www.wowhead.com/classic/item=8151/flask-of-mojo": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Tough Scorpid Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Tough Scorpid Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 6,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 8,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 2
+    }
+  },
+  "Wild Leather Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 2,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1
+    }
+  },
+  "Wild Leather Helmet": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 2,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1
+    }
+  },
+  "Dragonscale Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 24,
+      "https://www.wowhead.com/classic/item=8165/worn-dragonscale": 12,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2
+    }
+  },
+  "Wolfshead Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 18,
+      "https://www.wowhead.com/classic/item=8368/thick-wolfhide": 2,
+      "https://www.wowhead.com/classic/item=8146/wicked-claw": 8,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2
+    }
+  },
+  "Nightscape Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 4
+    }
+  },
+  "Nightscape Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 4
+    }
+  },
+  "Turtle Scale Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=8167/turtle-scale": 24,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Gauntlets of the Sea": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 20,
+      "https://www.wowhead.com/classic/item=7079/globe-of-water": 8,
+      "https://www.wowhead.com/classic/item=7075/core-of-earth": 2,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4
+    }
+  },
+  "Tough Scorpid Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 12,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 6
+    }
+  },
+  "Turtle Scale Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=8167/turtle-scale": 28,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Nightscape Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 16,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Big Voodoo Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8152/flask-of-big-mojo": 6,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Big Voodoo Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=8152/flask-of-big-mojo": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Tough Scorpid Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 16,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Wild Leather Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 4,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2
+    }
+  },
+  "Tough Scorpid Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 14,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 8,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Tough Scorpid Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8154/scorpid-scale": 20,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 2
+    }
+  },
+  "Wild Leather Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 16,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 6,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2
+    }
+  },
+  "Wild Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 16,
+      "https://www.wowhead.com/classic/item=8153/wildvine": 6,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2
+    }
+  },
+  "Helm of Fire": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 40,
+      "https://www.wowhead.com/classic/item=7077/heart-of-fire": 8,
+      "https://www.wowhead.com/classic/item=7075/core-of-earth": 4,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 2,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4
+    }
+  },
+  "Feathered Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 40,
+      "https://www.wowhead.com/classic/item=8168/jet-black-feather": 40,
+      "https://www.wowhead.com/classic/item=7971/black-pearl": 2,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4
+    }
+  },
+  "Dragonscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 40,
+      "https://www.wowhead.com/classic/item=8165/worn-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 4,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 4
+    }
+  },
+  "Quickdraw Quiver": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 12,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1,
+      "https://www.wowhead.com/classic/item=8949/elixir-of-agility": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 4
+    }
+  },
+  "Thick Leather Ammo Pouch": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 10,
+      "https://www.wowhead.com/classic/item=8172/cured-thick-hide": 1,
+      "https://www.wowhead.com/classic/item=8951/elixir-of-greater-defense": 1,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 6
+    }
+  },
+  "Cured Rugged Hide": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8171/rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=15409/refined-deeprock-salt": 1
+    }
+  },
+  "Rugged Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 5
+    }
+  },
+  "Heavy Scorpid Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wicked Leather Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Green Dragonscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 20,
+      "https://www.wowhead.com/classic/item=15412/green-dragonscale": 25,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Heavy Scorpid Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wicked Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Chimeric Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15423/chimera-leather": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Red Dragonscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 40,
+      "https://www.wowhead.com/classic/item=15414/red-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runic Leather Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 10,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Volcanic Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=7075/core-of-earth": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Green Dragonscale Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 20,
+      "https://www.wowhead.com/classic/item=15412/green-dragonscale": 25,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Living Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ironfeather Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 24,
+      "https://www.wowhead.com/classic/item=15420/ironfeather": 80,
+      "https://www.wowhead.com/classic/item=1529/jade": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Chimeric Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=15423/chimera-leather": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Heavy Scorpid Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runic Leather Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=7971/black-pearl": 1,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostsaber Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=15422/frostsaber-leather": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Stormshroud Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Warbear Harness": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 28,
+      "https://www.wowhead.com/classic/item=15419/warbear-leather": 12,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Heavy Scorpid Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wicked Leather Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runic Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Chimeric Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=15423/chimera-leather": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostsaber Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15422/frostsaber-leather": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Heavy Scorpid Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 12,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Volcanic Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Blue Dragonscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 28,
+      "https://www.wowhead.com/classic/item=15415/blue-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Living Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 6,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Stormshroud Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 3,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 3,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Warbear Woolies": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 24,
+      "https://www.wowhead.com/classic/item=15419/warbear-leather": 14,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Chimeric Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 10,
+      "https://www.wowhead.com/classic/item=15423/chimera-leather": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Black Dragonscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 40,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 60,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Devilsaur Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=15417/devilsaur-leather": 8,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Ironfeather Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 40,
+      "https://www.wowhead.com/classic/item=15420/ironfeather": 120,
+      "https://www.wowhead.com/classic/item=1529/jade": 1,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runic Leather Headband": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 14,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wicked Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Blue Dragonscale Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 28,
+      "https://www.wowhead.com/classic/item=15415/blue-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Frostsaber Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 6,
+      "https://www.wowhead.com/classic/item=15422/frostsaber-leather": 10,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Heavy Scorpid Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 8,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 12,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Stormshroud Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 3,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 3,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Black Dragonscale Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 44,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 45,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Devilsaur Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=15417/devilsaur-leather": 14,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Living Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 8,
+      "https://www.wowhead.com/classic/item=14342/mooncloth": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Onyxia Scale Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=15410/scale-of-onyxia": 1,
+      "https://www.wowhead.com/classic/item=14044/cindercloth-cloak": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Runic Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 18,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 12,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Wicked Leather Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 14,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Heavy Scorpid Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 14,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 14,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Runic Leather Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 22,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 16,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Volcanic Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 10,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 1,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Wicked Leather Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 20,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14256/felcloth": 6,
+      "https://www.wowhead.com/classic/item=2325/black-dye": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Black Dragonscale Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 40,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 60,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Frostsaber Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=15422/frostsaber-leather": 12,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Onyxia Scale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 40,
+      "https://www.wowhead.com/classic/item=15410/scale-of-onyxia": 12,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 60,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Runic Leather Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 16,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=14047/runecloth": 18,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Medium Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 4
+    }
+  },
+  "Heavy Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 5
+    }
+  },
+  "Thick Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 6
+    }
+  },
+  "Corehound Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17012/core-leather": 20,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 6,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Molten Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17012/core-leather": 15,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 3,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 6,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Black Dragonscale Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 4,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Gloves of the Greatfather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=7067/elemental-earth": 4,
+      "https://www.wowhead.com/classic/item=4291/silken-thread": 1
+    }
+  },
+  "Rugged Leather": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 6
+    }
+  },
+  "Shadowskin Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4304/thick-leather": 6,
+      "https://www.wowhead.com/classic/item=7428/shadowcat-hide": 8,
+      "https://www.wowhead.com/classic/item=7971/black-pearl": 2,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=1210/shadowgem": 4,
+      "https://www.wowhead.com/classic/item=8343/heavy-silken-thread": 1
+    }
+  },
+  "Core Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17012/core-leather": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Gordok Ogre Suit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+      "https://www.wowhead.com/classic/item=14048/bolt-of-runecloth": 2,
+      "https://www.wowhead.com/classic/item=18240/ogre-tannin": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 1
+    }
+  },
+  "Girdle of Insight": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 12,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 4
+    }
+  },
+  "Mongoose Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 6,
+      "https://www.wowhead.com/classic/item=11754/black-diamond": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 4
+    }
+  },
+  "Swift Flight Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 12,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 8,
+      "https://www.wowhead.com/classic/item=15420/ironfeather": 60,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 4
+    }
+  },
+  "Chromatic Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=12607/brilliant-chromatic-scale": 12,
+      "https://www.wowhead.com/classic/item=15416/black-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=15414/red-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 5,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 8
+    }
+  },
+  "Hide of the Wild": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 12,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 10,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 8,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 8
+    }
+  },
+  "Shifting Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 12,
+      "https://www.wowhead.com/classic/item=12753/skin-of-shadow": 4,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 8,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 8
+    }
+  },
+  "Heavy Leather Ball": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1
+    }
+  },
+  "Barbaric Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4234/heavy-leather": 8,
+      "https://www.wowhead.com/classic/item=4236/cured-heavy-hide": 2,
+      "https://www.wowhead.com/classic/item=5498/small-lustrous-pearl": 4,
+      "https://www.wowhead.com/classic/item=4461/raptor-hide": 1,
+      "https://www.wowhead.com/classic/item=5637/large-fang": 4
+    }
+  },
+  "Might of the Timbermaw": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Dawn Treaders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 30,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 2,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Timbermaw Brawlers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 8,
+      "https://www.wowhead.com/classic/item=12804/powerful-mojo": 6,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 6,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Golden Mantle of the Dawn": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 8,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=12809/guardian-stone": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Lava Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17011/lava-core": 5,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Chromatic Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 5,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 2,
+      "https://www.wowhead.com/classic/item=17012/core-leather": 4,
+      "https://www.wowhead.com/classic/item=12607/brilliant-chromatic-scale": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Corehound Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 8,
+      "https://www.wowhead.com/classic/item=17012/core-leather": 12,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 10,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Molten Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=17010/fiery-core": 2,
+      "https://www.wowhead.com/classic/item=17011/lava-core": 7,
+      "https://www.wowhead.com/classic/item=7076/essence-of-earth": 6,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Blood Tiger Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19768/primal-tiger-leather": 35,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 3
+    }
+  },
+  "Blood Tiger Shoulders": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19768/primal-tiger-leather": 25,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 3
+    }
+  },
+  "Primal Batskin Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19767/primal-bat-leather": 8,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 3
+    }
+  },
+  "Primal Batskin Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19767/primal-bat-leather": 10,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 3
+    }
+  },
+  "Primal Batskin Jerkin": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=19767/primal-bat-leather": 14,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 5,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 4
+    }
+  },
+  "Green Dragonscale Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 20,
+      "https://www.wowhead.com/classic/item=15412/green-dragonscale": 30,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Blue Dragonscale Leggings": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=8170/rugged-leather": 28,
+      "https://www.wowhead.com/classic/item=15415/blue-dragonscale": 36,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14341/rune-thread": 2
+    }
+  },
+  "Spitfire Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20500/light-silithid-carapace": 1,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 20,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 2
+    }
+  },
+  "Spitfire Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20500/light-silithid-carapace": 2,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 30,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1
+    }
+  },
+  "Spitfire Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20500/light-silithid-carapace": 3,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 40,
+      "https://www.wowhead.com/classic/item=7078/essence-of-fire": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2
+    }
+  },
+  "Sandstalker Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20501/heavy-silithid-carapace": 1,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 20,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 2
+    }
+  },
+  "Sandstalker Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20501/heavy-silithid-carapace": 2,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 30,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1
+    }
+  },
+  "Sandstalker Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=20501/heavy-silithid-carapace": 3,
+      "https://www.wowhead.com/classic/item=20498/silithid-chitin": 40,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2
+    }
+  },
+  "Black Whelp Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=7286/black-whelp-scale": 8,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  },
+  "Dreamscale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 12,
+      "https://www.wowhead.com/classic/item=20381/dreamscale": 6,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 6
+    }
+  },
+  "Stormshroud Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 4,
+      "https://www.wowhead.com/classic/item=7082/essence-of-air": 4,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2
+    }
+  },
+  "Icy Scale Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 4,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 16,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Icy Scale Breastplate": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 7,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 24,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Icy Scale Gauntlets": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 5,
+      "https://www.wowhead.com/classic/item=15408/heavy-scorpid-scale": 16,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Polar Bracers": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 4,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 12,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Polar Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 5,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 12,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 3,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Polar Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=22682/frozen-rune": 7,
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 16,
+      "https://www.wowhead.com/classic/item=7080/essence-of-water": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 4,
+      "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 4
+    }
+  },
+  "Bramblewood Belt": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1
+    }
+  },
+  "Bramblewood Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6,
+      "https://www.wowhead.com/classic/item=18512/larval-acid": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2
+    }
+  },
+  "Bramblewood Helm": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=12810/enchanted-leather": 12,
+      "https://www.wowhead.com/classic/item=19726/bloodvine": 2,
+      "https://www.wowhead.com/classic/item=12803/living-essence": 2,
+      "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 2
+    }
+  },
+  "Handstitched Leather Pants": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Fine Leather Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 7,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Embossed Leather Vest": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 8,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 4
+    }
+  },
+  "Embossed Leather Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 8,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 5
+    }
+  },
+  "Embossed Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 5,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "White Leather Jerkin": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2318/light-leather": 8,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2,
+      "https://www.wowhead.com/classic/item=2324/bleach": 1
+    }
+  },
+  "Fine Leather Gloves": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 1,
+      "https://www.wowhead.com/classic/item=2318/light-leather": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 2
+    }
+  },
+  "Medium Armor Kit": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=2320/coarse-thread": 1
+    }
+  },
+  "Dark Leather Boots": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Dark Leather Tunic": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 6,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Dark Leather Cloak": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 8,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 1,
+      "https://www.wowhead.com/classic/item=4340/gray-dye": 1
+    }
+  },
+  "Toughened Leather Armor": {
+    "quantities": 1,
+    "reagents": {
+      "https://www.wowhead.com/classic/item=2319/medium-leather": 10,
+      "https://www.wowhead.com/classic/item=4231/cured-light-hide": 2,
+      "https://www.wowhead.com/classic/item=2321/fine-thread": 2
+    }
+  }
+}
