@@ -1,16 +1,39 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import EngineeringData from '../../src/assets/engineering.json'
+
+function getSortedRecipes(recipeData, searchValue, items) {
+    return Object.keys(recipeData)
+        .filter(val => val.toLowerCase().includes(searchValue.toLowerCase()))
+        .sort((a, b) => {
+            const aSet = items[a] > 0 ? 1 : 0
+            const bSet = items[b] > 0 ? 1 : 0
+            return bSet - aSet
+        })
+}
 
 export default function Calculator(props) {
     const { items, setItems, fakeData, selectedProfession } = props
     const [searchValue, setSearchValue] = useState('')
+    const [sortedRecipes, setSortedRecipes] = useState(() => getSortedRecipes(EngineeringData, '', items))
+
+    useEffect(() => {
+        setSearchValue('')
+        setSortedRecipes(getSortedRecipes(EngineeringData, '', items))
+    }, [EngineeringData])
+
+    function handleSearchChange(e) {
+        const val = e.target.value
+        setSearchValue(val)
+        setSortedRecipes(getSortedRecipes(EngineeringData, val, items))
+    }
+
     return (
         <div className='sub-section'>
             <h3 className='sub-header'>Recipes</h3>
             {selectedProfession ? (
                 <>
-                    <input value={searchValue} onChange={(e) => { setSearchValue(e.target.value) }} placeholder='Search recipe' className='recipe-search' />
-                    {Object.keys(EngineeringData).filter(val => val.toLowerCase().includes(searchValue.toLowerCase())).map((recipe, recipeIndex) => {
+                    <input value={searchValue} onChange={handleSearchChange} placeholder='Search recipe' className='recipe-search' />
+                    {sortedRecipes.map((recipe, recipeIndex) => {
                         return (
                             <div className='recipe-line' key={recipeIndex}>
                                 <input placeholder='0' type='number' value={items[recipe] || ''} onChange={(e) => {
