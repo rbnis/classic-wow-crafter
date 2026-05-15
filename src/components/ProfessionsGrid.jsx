@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function ProfessionsGrid(props) {
     const { setSelectedProfession, craftingProfessions, selectedProfession } = props
     return (

@@ -1,9 +1,5 @@
-import React from 'react'
-import EngineeringData from '../../src/assets/engineering.json'
-
-
 export default function Reagents(props) {
-    const { reagents, reagentsLength, items } = props
+    const { reagents, reagentsLength } = props
     return (
         <div className='sub-section'>
             <h3 className='sub-header'>Reagents</h3>

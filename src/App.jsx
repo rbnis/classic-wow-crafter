@@ -18,23 +18,6 @@ const craftingProfessions = {
   Tailoring: TailoringData,
 }
 
-const gatheringProfessions = [
-  "Herbalism",
-  "Mining",
-  "Skinning"
-]
-
-const secondaryProfessions = [
-  "Cooking",
-  "First Aid",
-  "Fishing"
-]
-
-const fakeData = {
-  'Arcane Bomb': 3
-}
-
-
 function App() {
   const [selectedProfession, setSelectedProfession] = useState(null)
   const [items, setItems] = useState({})
@@ -58,12 +41,6 @@ function App() {
   }
   const reagentsLength = Object.keys(reagents).filter(val => (reagents[val] > 0)).length
 
-  function clearData() {
-    setItems({})
-    setSelectedProfession(null)
-  }
-
-
   return (
     <>
       <header>
@@ -81,7 +58,7 @@ function App() {
         </section>
         <section style={{ opacity: selectedProfession ? 1 : 0.4 }}>
           <Reagents reagentsLength={reagentsLength} reagents={reagents} />
-          <Calculator fakeData={fakeData} items={items} setItems={setItems} selectedProfession={selectedProfession} recipeData={activeData} />
+          <Calculator key={selectedProfession} items={items} setItems={setItems} selectedProfession={selectedProfession} recipeData={activeData} />
         </section>
       </main>
       <footer>

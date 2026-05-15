@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useMemo } from 'react'
 
 function getSortedRecipes(recipeData, searchValue, items) {
     return Object.keys(recipeData)
@@ -11,27 +11,19 @@ function getSortedRecipes(recipeData, searchValue, items) {
 }
 
 export default function Calculator(props) {
-    const { items, setItems, fakeData, selectedProfession, recipeData } = props
+    const { items, setItems, selectedProfession, recipeData } = props
     const [searchValue, setSearchValue] = useState('')
-    const [sortedRecipes, setSortedRecipes] = useState(() => getSortedRecipes(recipeData, '', items))
-
-    useEffect(() => {
-        setSearchValue('')
-        setSortedRecipes(getSortedRecipes(recipeData, '', items))
-    }, [recipeData])
-
-    function handleSearchChange(e) {
-        const val = e.target.value
-        setSearchValue(val)
-        setSortedRecipes(getSortedRecipes(recipeData, val, items))
-    }
+    const sortedRecipes = useMemo(
+        () => getSortedRecipes(recipeData, searchValue, items),
+        [recipeData, searchValue] // eslint-disable-line react-hooks/exhaustive-deps
+    )
 
     return (
         <div className='sub-section'>
             <h3 className='sub-header'>Recipes</h3>
             {selectedProfession ? (
                 <>
-                    <input value={searchValue} onChange={handleSearchChange} placeholder='Search recipe' className='recipe-search' />
+                    <input value={searchValue} onChange={(e) => setSearchValue(e.target.value)} placeholder='Search recipe' className='recipe-search' />
                     {sortedRecipes.filter(recipe => recipeData[recipe]).map((recipe, recipeIndex) => {
                         return (
                             <div className='recipe-line' key={recipeIndex}>
