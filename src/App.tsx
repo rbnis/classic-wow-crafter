@@ -40,7 +40,7 @@ function App() {
   const layoutClass = 'max-w-[800px] mx-auto w-full flex flex-col px-8 py-8'
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
       <header className={`${layoutClass} gap-4 pb-0 sm:pb-8`}>
         <h1 className="text-3xl font-bold">Classic WoW Crafting Calculator</h1>
         <p>I want to craft 6 X and 4 Y and 8 Z... So what reagents do I need?</p>

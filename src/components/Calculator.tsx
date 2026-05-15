@@ -38,7 +38,7 @@ export default function Calculator({ items, setItems, selectedProfession, recipe
             value={searchValue}
             onChange={(e) => setSearchValue(e.target.value)}
             placeholder="Search recipe"
-            className="w-full border border-gray-300 rounded px-3 py-2"
+            className="w-full border border-gray-300 rounded px-3 py-2 bg-white dark:bg-gray-800 dark:border-gray-600 dark:text-gray-100"
           />
           {sortedRecipes.map((recipe) => (
             <div key={recipe} className="flex items-center gap-4">
@@ -49,7 +49,7 @@ export default function Calculator({ items, setItems, selectedProfession, recipe
                 onChange={(e) => {
                   setItems(curr => ({ ...curr, [recipe]: Number(e.target.value) }))
                 }}
-                className="w-16 border border-gray-300 rounded px-2 py-1 text-center"
+                className="w-16 border border-gray-300 rounded px-2 py-1 text-center bg-white dark:bg-gray-800 dark:border-gray-600 dark:text-gray-100"
               />
               <i className="fa-solid fa-xmark" />
               <p className="flex-1">

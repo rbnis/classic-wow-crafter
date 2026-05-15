@@ -16,7 +16,7 @@ export default function ProfessionsGrid({ setSelectedProfession, craftingProfess
             className={`w-full py-3 rounded border font-medium transition-colors ${
               selectedProfession === prof
                 ? 'bg-blue-600 text-white border-blue-600'
-                : 'bg-white text-gray-800 border-gray-300 hover:bg-gray-50'
+                : 'bg-white text-gray-800 border-gray-300 hover:bg-gray-50 dark:bg-gray-800 dark:text-gray-100 dark:border-gray-600 dark:hover:bg-gray-700'
             }`}
           >
             {prof}
