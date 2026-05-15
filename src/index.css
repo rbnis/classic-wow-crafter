@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@media (prefers-color-scheme: dark) {
+  html { background-color: theme(--color-gray-950); }
+}
+
 /* Override WoWhead's inline link color to match app text */
 .reagent-link { color: var(--color-gray-900) !important; }
 @media (prefers-color-scheme: dark) {
