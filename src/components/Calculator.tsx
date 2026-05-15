@@ -45,6 +45,7 @@ export default function Calculator({ items, setItems, selectedProfession, recipe
               <input
                 placeholder=""
                 type="number"
+                inputMode="numeric"
                 value={items[recipe] || ''}
                 onChange={(e) => {
                   setItems(curr => ({ ...curr, [recipe]: Number(e.target.value) }))
