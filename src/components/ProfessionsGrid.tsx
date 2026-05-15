@@ -15,7 +15,7 @@ interface Props {
 
 export default function ProfessionsGrid({ setSelectedProfession, craftingProfessions, selectedProfession }: Props) {
   return (
-    <div className="flex gap-3 overflow-x-auto pb-1 justify-start sm:justify-center">
+    <div className="professions-scroll flex gap-3 overflow-x-auto pb-2 justify-start sm:justify-center">
       {craftingProfessions.map((prof) => {
         const icon = PROFESSION_ICONS[prof]
         const active = selectedProfession === prof

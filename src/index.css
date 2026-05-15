@@ -10,6 +10,19 @@
   .reagent-link { color: var(--color-gray-100) !important; }
 }
 
+/* Styled scrollbar for the profession picker */
+.professions-scroll { scrollbar-width: thin; scrollbar-color: var(--color-gray-300) transparent; }
+.professions-scroll::-webkit-scrollbar { height: 3px; }
+.professions-scroll::-webkit-scrollbar-track { background: transparent; }
+.professions-scroll::-webkit-scrollbar-thumb {
+  background: var(--color-gray-300);
+  border-radius: 9999px;
+}
+@media (prefers-color-scheme: dark) {
+  .professions-scroll { scrollbar-color: var(--color-gray-600) transparent; }
+  .professions-scroll::-webkit-scrollbar-thumb { background: var(--color-gray-600); }
+}
+
 /* Suppress number input spinners — no Tailwind utility exists for this */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {

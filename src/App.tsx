@@ -49,7 +49,7 @@ function App() {
     <div className="min-h-dvh bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
       {helpOpen && <HelpModal onClose={() => setHelpOpen(false)} />}
 
-      <header className="sticky top-0 z-40 bg-white/90 dark:bg-gray-950/90 backdrop-blur border-b border-gray-200 dark:border-gray-800">
+      <header>
         <div className={`${contentClass} flex items-center justify-between py-3`}>
           <h1 className="text-lg font-bold">Classic WoW Crafting Calculator</h1>
           <button

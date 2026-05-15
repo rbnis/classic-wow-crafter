@@ -70,7 +70,7 @@ export default function Calculator({ items, setItems, selectedProfession, recipe
           {sortedRecipes.map((recipe) => (
             <div key={recipe} className="flex items-center gap-4 pr-3">
               <input
-                placeholder=""
+                placeholder="0"
                 type="number"
                 inputMode="numeric"
                 value={items[recipe] || ''}
