@@ -4,3 +4,8 @@ export interface Recipe {
 }
 
 export type ProfessionData = Record<string, Recipe>
+
+export interface ReagentEntry {
+  url: string
+  qty: number
+}

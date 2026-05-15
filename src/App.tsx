@@ -2,7 +2,7 @@ import { useState } from 'react'
 import ProfessionsGrid from './components/ProfessionsGrid'
 import Reagents from './components/Reagents'
 import Calculator from './components/Calculator'
-import type { ProfessionData } from './types'
+import type { ProfessionData, ReagentEntry } from './types'
 import AlchemyData from './assets/alchemy.json'
 import BlacksmithingData from './assets/blacksmithing.json'
 import EnchantingData from './assets/enchanting.json'
@@ -25,17 +25,21 @@ function App() {
 
   const activeData: ProfessionData = craftingProfessions[selectedProfession ?? ''] ?? {}
 
-  const reagents: Record<string, number> = {}
+  const reagents: Record<string, ReagentEntry> = {}
   for (const item in items) {
     const itemData = activeData[item]
     if (!itemData || !(items[item] > 0)) continue
-    for (const reagent in itemData.reagents) {
-      const reagentName = reagent.split('/').at(-1)!
-      const qty = items[item] * itemData.reagents[reagent]
-      reagents[reagentName] = (reagents[reagentName] ?? 0) + qty
+    for (const reagentUrl in itemData.reagents) {
+      const slug = reagentUrl.split('/').at(-1)!
+      const qty = items[item] * itemData.reagents[reagentUrl]
+      if (slug in reagents) {
+        reagents[slug].qty += qty
+      } else {
+        reagents[slug] = { url: reagentUrl, qty }
+      }
     }
   }
-  const reagentsLength = Object.values(reagents).filter(v => v > 0).length
+  const reagentsLength = Object.values(reagents).filter(e => e.qty > 0).length
 
   const layoutClass = 'max-w-[800px] mx-auto w-full flex flex-col px-8 py-8'
 

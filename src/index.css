@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+/* Override WoWhead's inline link color to match app text */
+.reagent-link { color: var(--color-gray-900) !important; }
+@media (prefers-color-scheme: dark) {
+  .reagent-link { color: var(--color-gray-100) !important; }
+}
+
 /* Suppress number input spinners — no Tailwind utility exists for this */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
