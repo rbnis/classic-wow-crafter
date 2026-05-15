@@ -2,6 +2,7 @@ import { useState } from 'react'
 import ProfessionsGrid from './components/ProfessionsGrid'
 import Reagents from './components/Reagents'
 import Calculator from './components/Calculator'
+import HelpModal from './components/HelpModal'
 import type { ProfessionData, ReagentEntry } from './types'
 import AlchemyData from './assets/alchemy.json'
 import BlacksmithingData from './assets/blacksmithing.json'
@@ -19,9 +20,12 @@ const craftingProfessions: Record<string, ProfessionData> = {
   Tailoring: TailoringData as ProfessionData,
 }
 
+const contentClass = 'max-w-[800px] mx-auto w-full px-6'
+
 function App() {
   const [selectedProfession, setSelectedProfession] = useState<string | null>(null)
   const [items, setItems] = useState<Record<string, number>>({})
+  const [helpOpen, setHelpOpen] = useState(false)
 
   const activeData: ProfessionData = craftingProfessions[selectedProfession ?? ''] ?? {}
 
@@ -41,27 +45,29 @@ function App() {
   }
   const reagentsLength = Object.values(reagents).filter(e => e.qty > 0).length
 
-  const layoutClass = 'max-w-[800px] mx-auto w-full flex flex-col px-8 py-8'
-
   return (
-    <div className="min-h-screen bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
-      <header className={`${layoutClass} gap-4 pb-0 sm:pb-8`}>
-        <h1 className="text-3xl font-bold">Classic WoW Crafting Calculator</h1>
-        <p>I want to craft 6 X and 4 Y and 8 Z... So what reagents do I need?</p>
-        <ol>
-          <li>Select your profession.</li>
-          <li>Enter the quantity of each item you wish to craft.</li>
-          <li>See what reagents you will need to complete your order.</li>
-        </ol>
+    <div className="min-h-dvh bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
+      {helpOpen && <HelpModal onClose={() => setHelpOpen(false)} />}
+
+      <header className="sticky top-0 z-40 bg-white/90 dark:bg-gray-950/90 backdrop-blur border-b border-gray-200 dark:border-gray-800">
+        <div className={`${contentClass} flex items-center justify-between py-3`}>
+          <h1 className="text-lg font-bold">Classic WoW Crafting Calculator</h1>
+          <button
+            onClick={() => setHelpOpen(true)}
+            className="w-7 h-7 rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center text-sm font-semibold hover:opacity-70 transition-opacity"
+            aria-label="Help"
+          >
+            ?
+          </button>
+        </div>
       </header>
-      <main className={`${layoutClass} gap-8`}>
-        <section className="flex flex-col gap-4">
-          <ProfessionsGrid
-            selectedProfession={selectedProfession}
-            setSelectedProfession={(prof) => { setSelectedProfession(prof); setItems({}) }}
-            craftingProfessions={Object.keys(craftingProfessions)}
-          />
-        </section>
+
+      <main className={`${contentClass} py-8 flex flex-col gap-8`}>
+        <ProfessionsGrid
+          selectedProfession={selectedProfession}
+          setSelectedProfession={(prof) => { setSelectedProfession(prof); setItems({}) }}
+          craftingProfessions={Object.keys(craftingProfessions)}
+        />
         <section className="flex flex-col gap-4" style={{ opacity: selectedProfession ? 1 : 0.4 }}>
           <Reagents reagentsLength={reagentsLength} reagents={reagents} />
           <Calculator
@@ -73,8 +79,9 @@ function App() {
           />
         </section>
       </main>
-      <footer className={`${layoutClass} gap-4`}>
-        <p>
+
+      <footer className={`${contentClass} py-6`}>
+        <p className="text-sm text-gray-500 dark:text-gray-400">
           Made by{' '}
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/rbnis">rbnis</a>.
           {' '}Based on work by{' '}
